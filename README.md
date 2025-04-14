@@ -73,5 +73,3 @@ This app can be especially useful for:
 - Startups in the automobile resale market
 
 ---
-
-Let me know if you want me to create a markdown `.md` version for your `README.md` or a logo/banner for the project!
