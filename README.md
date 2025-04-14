@@ -56,10 +56,6 @@ To build a reliable machine learning model that can **accurately estimate car pr
    streamlit run app.py
    ```
 
----
-
-
----
 
 ### 💡 Use Case
 
