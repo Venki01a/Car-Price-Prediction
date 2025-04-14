@@ -58,10 +58,6 @@ To build a reliable machine learning model that can **accurately estimate car pr
 
 ---
 
-### 📌 Demo
-
-![App Screenshot](https://your-image-link-or-gif-demo)  
-*A glimpse of the user-friendly UI for real-time car price predictions.*
 
 ---
 
